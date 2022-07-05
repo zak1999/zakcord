@@ -1,0 +1,21 @@
+.sidebar{
+  text-align: center;
+  height: 100vh;
+  min-width: 200px;
+  background-color: #2f3137;
+  color: #fff;
+  padding-top: 20px;
+  position: sticky;
+  top: 0;
+}
+.title{  
+  font-size: xx-large;
+  padding-bottom: 20px;
+}
+.socials{
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  list-style: none;
+  margin-bottom: 30px;
+}
