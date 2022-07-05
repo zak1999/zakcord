@@ -6,8 +6,8 @@ Preview [here](https://zak1999.github.io/zakcord/).
 
 ### Tools used:
 
-  *HTML,CSS
-  *React - the front-end framework
-  *Firebase - authentication, users and database for messasges
+  -**HTML,CSS**
+  -**React** - the front-end framework
+  -**Firebase** - authentication, users and database for messasges
 
 
