@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/static/css/main.5946a4ba.css",
-    "main.js": "/static/js/main.27a26b49.js",
-    "index.html": "/index.html",
-    "main.5946a4ba.css.map": "/static/css/main.5946a4ba.css.map",
-    "main.27a26b49.js.map": "/static/js/main.27a26b49.js.map"
+    "main.css": "/zakcord/static/css/main.5946a4ba.css",
+    "main.js": "/zakcord/static/js/main.27a26b49.js",
+    "index.html": "/zakcord/index.html",
+    "main.5946a4ba.css.map": "/zakcord/static/css/main.5946a4ba.css.map",
+    "main.27a26b49.js.map": "/zakcord/static/js/main.27a26b49.js.map"
   },
   "entrypoints": [
     "static/css/main.5946a4ba.css",
